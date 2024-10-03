@@ -1,0 +1,32 @@
+{
+    "apls": [
+    {
+    "id": "4af2",
+    "name": "Снегирев Кирилл",
+    "phone": "+79808453836",
+    "email": "wallozicesso-3987@yopmail.com",
+    "course": "course-wordpress"
+    },
+    {
+    "id": "d7ae",
+    "name": "Козлов Андрей",
+    "phone": "+79914377570",
+    "email": "roisaureicrobre-4090@yopmail.com",
+    "course": "course-vue"
+    },
+    {
+    "id": "a3cb",
+    "name": "Кузнецов Максим",
+    "phone": "+79808453836",
+    "email": "waubroneuquotre-4702@yopmail.com",
+    "course": "course-js"
+    },
+    {
+    "id": "9014",
+    "name": "Данилова Дарья",
+    "phone": "+79808453836",
+    "email": "kauwegrudegoi-5361@yopmail.com",
+    "course": "course-js"
+    }
+]
+}
